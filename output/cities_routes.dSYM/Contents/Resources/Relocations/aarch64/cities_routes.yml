@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pedromiguel/Documents/GitHub/Atividade_Grafo/output/cities_routes'
+relocations:     []
+...
